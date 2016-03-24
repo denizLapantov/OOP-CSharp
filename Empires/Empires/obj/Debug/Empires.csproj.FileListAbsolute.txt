@@ -1,0 +1,6 @@
+C:\Users\deniz\Desktop\New folder (6)\Empires\bin\Debug\Empires.exe.config
+C:\Users\deniz\Desktop\New folder (6)\Empires\bin\Debug\Empires.exe
+C:\Users\deniz\Desktop\New folder (6)\Empires\bin\Debug\Empires.pdb
+C:\Users\deniz\Desktop\New folder (6)\Empires\obj\Debug\Empires.csprojResolveAssemblyReference.cache
+C:\Users\deniz\Desktop\New folder (6)\Empires\obj\Debug\Empires.exe
+C:\Users\deniz\Desktop\New folder (6)\Empires\obj\Debug\Empires.pdb
